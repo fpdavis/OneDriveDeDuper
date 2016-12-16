@@ -1,0 +1,8 @@
+c:\users\pdavis\documents\visual studio 2015\Projects\OneDriveDeDuper\OneDriveDeDuper\bin\Debug\OneDriveDeDuper.exe.config
+c:\users\pdavis\documents\visual studio 2015\Projects\OneDriveDeDuper\OneDriveDeDuper\obj\Debug\OneDriveDeDuper.csprojResolveAssemblyReference.cache
+c:\users\pdavis\documents\visual studio 2015\Projects\OneDriveDeDuper\OneDriveDeDuper\bin\Debug\OneDriveDeDuper.exe
+c:\users\pdavis\documents\visual studio 2015\Projects\OneDriveDeDuper\OneDriveDeDuper\bin\Debug\OneDriveDeDuper.pdb
+c:\users\pdavis\documents\visual studio 2015\Projects\OneDriveDeDuper\OneDriveDeDuper\obj\Debug\OneDriveDeDuper.exe
+c:\users\pdavis\documents\visual studio 2015\Projects\OneDriveDeDuper\OneDriveDeDuper\obj\Debug\OneDriveDeDuper.pdb
+c:\users\pdavis\documents\visual studio 2015\Projects\OneDriveDeDuper\OneDriveDeDuper\bin\Debug\CommandLine.dll
+c:\users\pdavis\documents\visual studio 2015\Projects\OneDriveDeDuper\OneDriveDeDuper\bin\Debug\CommandLine.xml
